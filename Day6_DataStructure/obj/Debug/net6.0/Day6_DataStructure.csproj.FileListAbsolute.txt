@@ -1,0 +1,15 @@
+C:\Users\haree\source\repos\Day6_DataStructure\Day6_DataStructure\bin\Debug\net6.0\Day6_DataStructure.exe
+C:\Users\haree\source\repos\Day6_DataStructure\Day6_DataStructure\bin\Debug\net6.0\Day6_DataStructure.deps.json
+C:\Users\haree\source\repos\Day6_DataStructure\Day6_DataStructure\bin\Debug\net6.0\Day6_DataStructure.runtimeconfig.json
+C:\Users\haree\source\repos\Day6_DataStructure\Day6_DataStructure\bin\Debug\net6.0\Day6_DataStructure.dll
+C:\Users\haree\source\repos\Day6_DataStructure\Day6_DataStructure\bin\Debug\net6.0\Day6_DataStructure.pdb
+C:\Users\haree\source\repos\Day6_DataStructure\Day6_DataStructure\obj\Debug\net6.0\Day6_DataStructure.csproj.AssemblyReference.cache
+C:\Users\haree\source\repos\Day6_DataStructure\Day6_DataStructure\obj\Debug\net6.0\Day6_DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haree\source\repos\Day6_DataStructure\Day6_DataStructure\obj\Debug\net6.0\Day6_DataStructure.AssemblyInfoInputs.cache
+C:\Users\haree\source\repos\Day6_DataStructure\Day6_DataStructure\obj\Debug\net6.0\Day6_DataStructure.AssemblyInfo.cs
+C:\Users\haree\source\repos\Day6_DataStructure\Day6_DataStructure\obj\Debug\net6.0\Day6_DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\haree\source\repos\Day6_DataStructure\Day6_DataStructure\obj\Debug\net6.0\Day6_DataStructure.dll
+C:\Users\haree\source\repos\Day6_DataStructure\Day6_DataStructure\obj\Debug\net6.0\refint\Day6_DataStructure.dll
+C:\Users\haree\source\repos\Day6_DataStructure\Day6_DataStructure\obj\Debug\net6.0\Day6_DataStructure.pdb
+C:\Users\haree\source\repos\Day6_DataStructure\Day6_DataStructure\obj\Debug\net6.0\Day6_DataStructure.genruntimeconfig.cache
+C:\Users\haree\source\repos\Day6_DataStructure\Day6_DataStructure\obj\Debug\net6.0\ref\Day6_DataStructure.dll
